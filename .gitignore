@@ -1,4 +1,4 @@
-*.code-workspace # vscode
+*.code-workspace
 
 .env*
 !.env.example
