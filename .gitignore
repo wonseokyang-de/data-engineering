@@ -1,7 +1,0 @@
-*.code-workspace # vscode
-
-.env*
-!.env.example
-
-.config*
-!.config.example
